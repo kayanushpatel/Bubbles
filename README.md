@@ -5,7 +5,7 @@ Bubbles
 Creates random bubbles on a canvas using python's turtle module.
 
 
-How it works
+How It Works
 =======
 
 * Asks user to input number between 0-500:
@@ -17,19 +17,19 @@ How it works
 * Prompts user to hit enter to close the program.
 
 
-Picture example of recursive drawing
+Picture Example of Recursive Drawing
 =======
 
 ![Alt text](https://github.com/kayanushpatel/Bubbles/blob/master/Recursive%20Drawing.png "Recursive Drawing")
 
 
-Picture example of iterative drawing
+Picture Example of Iterative Drawing
 =======
 
 ![Alt text](https://github.com/kayanushpatel/Bubbles/blob/master/Iterative%20Drawing.png "Iterative Drawing")
 
 
-Bugs to fix
+Bugs To Fix
 =======
 
 None at the moment!
