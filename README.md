@@ -2,7 +2,7 @@
 Bubbles
 =======
 
-Creates random bubbles on a canvas using python's turtle module.
+Creates random bubbles on a canvas using python's turtle module. Please feel free to fork this and get creative and show me what you come up with!
 
 
 How It Works
